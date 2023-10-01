@@ -1,0 +1,5 @@
+{
+  "action": "2",
+  "encryption": "Double[ShiftUp, Repeat[3, Xor]]",
+  "path": "src/main/resources/files/a.txt"
+}
